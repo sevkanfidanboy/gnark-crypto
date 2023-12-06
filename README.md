@@ -27,7 +27,7 @@
 * [`gnark`: a framework to execute (and verify) algorithms in zero-knowledge](https://github.com/consensys/gnark)
 
 ## Warning
-
+## Linea Build
 **`gnark-crypto` is not fully audited and is provided as-is, use at your own risk. In particular, `gnark-crypto` makes no security guarantees such as constant time implementation or side-channel attack resistance.**
 
 **To report a security bug, please refer to [`gnark` Security Policy](https://github.com/ConsenSys/gnark/blob/master/SECURITY.md).**
